@@ -61,36 +61,40 @@ body {
   border-top-right-radius: 0;
 }
 
-.btn-art {
-  width: 160px;
+.btn-main {
+  width: 200px;
   margin: 0 auto;
 }
 
-.btn-games {
-  width: 160px;
-  margin: 0 auto;
+.btn-design:hover {
+  color: orange;
+}
+
+.btn-gamedevtv:hover {
+  color: #4db89e;
+}
+
+.btn-itchio:hover {
+  color: #fa5c5c;
+}
+
+.btn-udemy:hover {
+  color: #a435f0;
 }
 
 .fa-linkedin {
   color: #0e76a8;
+  padding-left: 0.1cm;
 }
 
 .fa-linkedin:hover {
   color: white;
 }
 
-.fa-twitter {
-  color: #00acee;
+.fa-envelope {
+  color: #0e76a8;
 }
 
-.fa-twitter:hover {
-  color: white;
-}
-
-.fa-instagram {
-  color: #fb3958;
-}
-
-.fa-instagram:hover {
+.fa-envelope:hover {
   color: white;
 }
